@@ -1,8 +1,21 @@
 body {
-    background-color: goldenrod
+    background-color:gray;
 }
 
 .sekai {
-font-family: Arial, Helvetica, sans-serif
-color darkblue
+    font-family:'Crimson Text', serif;
+    font-family:'Quicksand', sans-serif;
+color: black;
+}p{
+    width: 50%;
+    padding: 5em;
+    border-style:solid;
+    border-color:black;
+    border-width:20px;
+    margin:3em;
+    background-color:pink;
 }
+a:hover {
+    background-color:lightpink;
+}
+

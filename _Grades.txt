@@ -1,23 +1,7 @@
-Assignment: Use CSS ID selectors to style two paragraphs on your About Me page differently.
-
-Grade: 50
-
-Comment: You did use CSS ID selectors, but you only created one, so I can only give you half credit.
-
-########
-
-Assignment: Add an image to your About Me page and edit the CSS so the image and paragraphs are side-by-side.
-
-Grade:  50
-
-Comment: You created an image tag, but you didn't create CSS styles to put the image and paragraphs side-by-side, so again only half credit.
-
 ########
 
 Overall Portfolio:  Does it follow proper HTML and CSS rules, including the Clean HTML Tips and other issues noted in class?
 
-Grade:  70
+Grade: 
 
-Comment: There were a couple of significant problems.  Try to use the HTML validator to make sure your code is correct.   Your CSS code looks good so far.
-
-I did note a few things as TODO items in your code.   You can view them by clicking the ToDo Tree icon on the left of your VS Code window.
+Comment: 
