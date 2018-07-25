@@ -1,7 +1,0 @@
-########
-
-Overall Portfolio:  Does it follow proper HTML and CSS rules, including the Clean HTML Tips and other issues noted in class?
-
-Grade: 
-
-Comment: 
