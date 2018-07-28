@@ -1,5 +1,7 @@
 Portfolio final grade: 75
 
+Comments:  Not bad as a first pass, but it could use a little more time spent to really tighten up the layout.
+
 ########
 
 Code Quality:  Does it follow proper HTML and CSS rules, including the Clean HTML Tips and other issues noted in class?
